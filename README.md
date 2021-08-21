@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile :wave:</h1>
-<p>Hello, my name is Pedro Paulo, I am 18 years old, I graduated as a computer technician (Focused on systems development). I currently live in Rio de Janeiro, Brazil and I am studying the 3° period of computer science.</p>
+<p>Hello, my name is Pedro Paulo, I am 19 years old, I graduated as a computer technician (Focused on systems development). I currently live in Rio de Janeiro, Brazil and I am studying the 3° period of computer science.</p>
 
 <h4>Talking about Personal Stuffs:</h4>
 <ul>
