@@ -32,4 +32,3 @@
 <br>
 <a href="mailto:pedropaulo.pp807@gmail.com"><code><img height="25" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff&link=mailto:pedropaulo.pp807@gmail.com" alt="Gmail" border="0"></code></a>
 
-![Snake animation](https://github.com/ZxPedro/ZxPedro//blob/output/github-contribution-grid-snake.svg)
